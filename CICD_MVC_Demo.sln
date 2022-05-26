@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CICD_MVC_Demo", "CICD_MVC_Demo\CICD_MVC_Demo.csproj", "{53975A92-3372-402B-86F8-17367BDCC515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53975A92-3372-402B-86F8-17367BDCC515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53975A92-3372-402B-86F8-17367BDCC515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53975A92-3372-402B-86F8-17367BDCC515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53975A92-3372-402B-86F8-17367BDCC515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DB4ABE3-692E-41A3-9BE9-E1477DDCD277}
+	EndGlobalSection
+EndGlobal
